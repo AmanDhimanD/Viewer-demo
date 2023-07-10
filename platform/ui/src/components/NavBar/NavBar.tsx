@@ -16,7 +16,7 @@ const NavBar = ({ className, children, isSticky }) => {
       )}
       style={{ paddingTop: '4px', paddingBottom: '4px', minHeight: '52px' }}
     >
-      {children}
+
     </div>
   );
 };
